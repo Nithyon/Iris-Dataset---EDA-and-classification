@@ -18,8 +18,7 @@ Usage:
 
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/your-username/iris-svm-classification.git
+
 Install the required dependencies:
 bash
 Copy code
