@@ -14,14 +14,6 @@ numpy
 pandas
 matplotlib
 scikit-learn
-Usage:
 
-Clone the repository:
-bash
 
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the Jupyter Notebook to explore and execute the code.
-Let me know if you need further adjustments or help with the repository!
+
